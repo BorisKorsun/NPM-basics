@@ -1,0 +1,29 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "Даня лох\r Борис норм",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisKorsun/NPM-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisKorsun/NPM-basics/issues"
+  },
+  "homepage": "https://github.com/BorisKorsun/NPM-basics#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.8",
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.4",
+    "webpack": "^5.71.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
